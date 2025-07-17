@@ -280,8 +280,6 @@ footer .questions {
 
 }
 
-
-
 @media screen and (max-width: 1300px) {
 
     .footer {
@@ -290,7 +288,6 @@ footer .questions {
         gap: 25px;
     }
 }
-
 
 .footer a {
     font-size: 14px;
